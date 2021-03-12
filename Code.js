@@ -1,4 +1,4 @@
-//jshint esversion: 8
+// jshint esversion: 8
 function onOpen() {
   SpreadsheetApp
     .getUi()
